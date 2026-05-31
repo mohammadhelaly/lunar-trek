@@ -10,7 +10,7 @@ The experience combines an interactive React website with an immersive Unreal En
 
 ## Submission Archive
 
-The `archive/2023-nasa-space-apps-submission` branch preserves the code exactly as it was when it was submitted for the 2023 NASA Space Apps Challenge. The main codebase has since been cleaned up, updated, and deployed on Vercel in addition to the original deployment on GitHub Pages for the original submission, so this archive branch remains available as the historical submission snapshot.
+The `archive/2023-nasa-space-apps-submission` branch preserves the codebase exactly as it was when it was submitted for the 2023 NASA Space Apps Challenge. The main codebase has since been cleaned up, updated, and deployed on Vercel in addition to the original deployment on GitHub Pages for the original submission, so this archive branch remains available as the historical submission snapshot.
 
 ## Tech Stack
 
