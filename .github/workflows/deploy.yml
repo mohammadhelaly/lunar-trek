@@ -3,7 +3,7 @@ name: Deploy
 on:
   push:
     branches:
-      - spa-routing
+      - deploy/github-pages
 
 jobs:
   build:
@@ -35,7 +35,7 @@ jobs:
     name: Deploy
     needs: build
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/spa-routing'
+    if: github.ref == 'refs/heads/deploy/github-pages'
 
     steps:
       - name: Download artifact
