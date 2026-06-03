@@ -117,7 +117,7 @@ const Footer = () => {
               </p>
             </div>
             <Icon
-              link="https://github.com/MohammadHelaly/lunar-trek"
+              link="https://github.com/mohammadhelaly/lunar-trek"
               name="GitHub"
             >
               <GitHub className="size-8 rounded-sm fill-white" />
