@@ -38,7 +38,7 @@ const cratersAndMountainsData = [
   { name: "Arzachel", latitude: -18.3, longitude: -1.9 },
   // { name: "Albategnius", latitude: 11.8, longitude: 4.5 },
   { name: "Theophilus + Cyrillus", latitude: -11.4, longitude: 26.4 },
-  { name: "Atistoteles + Eudoxus", latitude: 52.1, longitude: 17.1 },
+  { name: "Aristoteles + Eudoxus", latitude: 52.1, longitude: 17.1 },
   { name: "Catharina", latitude: -18.5, longitude: 23.5 },
   { name: "Schrödinger", latitude: -74.7, longitude: 133.0 },
   // { name: "Campbell", latitude: 3.0, longitude: -130.0 },

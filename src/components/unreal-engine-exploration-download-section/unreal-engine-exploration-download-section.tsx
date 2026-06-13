@@ -74,7 +74,7 @@ const UnrealEngineExplorationDownloadSection = () => {
               >
                 Step into the extraordinary and delve into the moon's enigmatic
                 beauty. As you wander the lunar expanse, embrace the awe of its
-                vastness and exlpore its mysteries. Begin a new odyssey as you
+                vastness and explore its mysteries. Begin a new odyssey as you
                 immerse yourself in a captivating experience that transports you
                 to the wonders of Earth's celestial neighbor.
               </motion.p>
@@ -117,7 +117,7 @@ const UnrealEngineExplorationDownloadSection = () => {
                 <Button
                   text="Download and Try It Yourself"
                   strongText
-                  link="https://drive.google.com/file/d/1KHxgiR-UJtHpS01MdU9-TFYcboxizkhd/view?usp=sharing"
+                  link="https://github.com/mohamedezzat2000z/LunarTrek-UE5/releases/download/v0.1.0-alpha/lunar-trek-ue5-v0.1.0-alpha-windows-x64.zip"
                   newTab
                 />
               </motion.div>
@@ -129,7 +129,7 @@ const UnrealEngineExplorationDownloadSection = () => {
                 whileInView="animate"
                 className="text-center font-futura text-base font-normal text-blue"
               >
-                **Disclamer: Due to resource limitations, Lunar Trek Unreal
+                **Disclaimer: Due to resource limitations, Lunar Trek Unreal
                 Engine 5 Virtual Experience could not be deployed to a web
                 server. Executable files are available for download at this
                 link. Due to security concerns with downloading files, the above
