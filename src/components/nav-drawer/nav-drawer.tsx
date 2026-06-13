@@ -65,7 +65,7 @@ const NavDrawer = (props: Props) => {
                   <motion.div
                     variants={backgroundVariants}
                     transition={backgroundTransition}
-                    initial={open && animate ? "animate" : "intial"}
+                    initial={open && animate ? "animate" : "initial"}
                     animate={animate ? "animate" : "initial"}
                     className="absolute inset-0 left-0 top-0 bg-blue"
                   />
