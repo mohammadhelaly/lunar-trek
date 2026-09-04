@@ -32,7 +32,7 @@ const Marker = (props: Props) => {
 
   const cameraPosition = useTypedSelector((state) => state.data.cameraPosition);
 
-  const [showMarker, setShowMarker] = useState(false);
+  const [showMarker, setShowMarker] = useState(showFarSide);
 
   let variants = {};
 
@@ -82,7 +82,7 @@ const Marker = (props: Props) => {
       distanceFactor={12}
       variants={variants}
       transition={transition}
-      initial="hidden"
+      initial={showFarSide ? "visible" : "hidden"}
       animate={showMarker ? "visible" : "hidden"}
       exit="hidden"
       className="pointer-events-none select-none"
